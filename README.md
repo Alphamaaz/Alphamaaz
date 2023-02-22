@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alphamaaz
-- 👀 I’m interested in  learning the skills and tips that lead me to be a good developerweb development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m interested in  learning the skills and tips that lead me to be a good developer 
+- 🌱 I’m currently learning react-native development
+- 💞️ I’m looking to collaborate on react-native development
 - 📫 How to reach me my insta:maaz_khan72 ...
 
 <!---
